@@ -45,3 +45,6 @@ I wanted to use LightUp Player as an example of a program that knows nothing of 
 I found an example AutoIt script that could process OSC messages and hacked it up to generate keyboard arrow commands that were directed at the LightUp Player window.
 
 
+### Cross-platform stuff ###
+
+The code was developed and tested on Ubuntu and Windows 7.  Need to see if it works (and with what changes) on OSX.
